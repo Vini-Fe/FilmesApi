@@ -1,0 +1,41 @@
+AutoMapper : works by transforming an input object of one type into an output object of a different type
+
+Controller : A controller determines what response to send back to a user when a user makes a browser request. A controller is just a class (for example, a Visual Basic or C# class)
+
+IEnumerable: é uma interface fundamental da biblioteca .NET usada para representar uma coleção que pode ser enumerada (iterada), ou seja, que pode ser percorrida item por item.
+
+IActionResult : representa o resultado de uma ação de um controlador. Em termos simples, é o tipo de retorno de um método Action que define como o framework deve responder a uma requisição HTTP.
+
+DTO = é uma classe simples usada para transportar dados entre processos, camadas ou sistemas.
+
+-------------------------------------------------------------------------------------
+
+
+Como funciona para inserir um filme no banco de dados:
+
+- Primeiro, deve-se realizar uma conexão com o SGBD desejado, seja SQL Server, MySQL, etc.
+	- (Visual Studio) será necessário realiza uma migration no Console de Gerenciador de Pacotes, digitando : "Add-Migration nome da migration"
+
+- É recomendado criar uma DTO para que possamos definir quais parâmetros serão enviados de maneira isolada do modelo de banco de dados.
+
+- Em seguida, crie uma método para adicionar o valor, utilizando IActionResult e [HttpPost]
+	- use o context, que foi criado junto com a conexão do banco de dados, e adicione o filme dentro da classe que irá armazenar o valor no banco de dados
+	- caso queira um retorno para saber se o valor foi adicionado, pode se usar "CreatedAtAction"
+
+- Ao inserir um filme, deve-se colocar o Título, Gênero e Duração
+
+- Por fim, abra o postman e faça um request com base na sua conexão e digite os valores com o POST.
+
+
+-------------------------------------------------------------------------------------------
+
+Ao utilizar o Patch, será necessário passar no postman da seguinte maneira:
+
+[
+	{
+		"op": "replace",    --> Aqui será qual tipo de operação será realizada, nesse caso replace 
+		"path": " ... "    --> Qual campo será alterado
+		"value": " ... "   --> Valor que irá substituir o atual
+	}
+
+]

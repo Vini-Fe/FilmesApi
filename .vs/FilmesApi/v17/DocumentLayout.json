@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250609145228_Delete Restrict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250609145228_Delete Restrict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250605183216_Cinema e Filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250605183216_Cinema e Filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\data\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:data\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\controllers\\sessaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:controllers\\sessaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250605181656_FilmeId Nulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250605181656_FilmeId Nulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\migrations\\20250603193733_sessao e cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:migrations\\20250603193733_sessao e cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\profiles\\cinemaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:profiles\\cinemaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\data\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:data\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|c:\\users\\vinic\\source\\repos\\filmesapi\\data\\dtos\\readcinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EA4BC5-37FE-4D57-95D2-88400B891D7F}|FilmesApi.csproj|solutionrelative:data\\dtos\\readcinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "Controllers\\FilmeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDUAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:29:56.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "Controllers\\CinemaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACgAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:02:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250609145228_Delete Restrict.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250609145228_Delete Restrict.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250609145228_Delete Restrict.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250609145228_Delete Restrict.cs",
+              "RelativeToolTip": "Migrations\\20250609145228_Delete Restrict.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:52:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250605183216_Cinema e Filme.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250605183216_Cinema e Filme.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250605183216_Cinema e Filme.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250605183216_Cinema e Filme.cs",
+              "RelativeToolTip": "Migrations\\20250605183216_Cinema e Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:32:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadSessaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\Dtos\\ReadSessaoDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\ReadSessaoDto.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\Dtos\\ReadSessaoDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\ReadSessaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:30:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessaoController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Controllers\\SessaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessaoController.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Controllers\\SessaoController.cs",
+              "RelativeToolTip": "Controllers\\SessaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:26:46.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "Data\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "Data\\FilmeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:19:37.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250605181656_FilmeId Nulo.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250605181656_FilmeId Nulo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250605181656_FilmeId Nulo.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250605181656_FilmeId Nulo.cs",
+              "RelativeToolTip": "Migrations\\20250605181656_FilmeId Nulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:16:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CinemaProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Profiles\\CinemaProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\CinemaProfile.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Profiles\\CinemaProfile.cs",
+              "RelativeToolTip": "Profiles\\CinemaProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:40:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadCinemaDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\Dtos\\ReadCinemaDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\ReadCinemaDto.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\Dtos\\ReadCinemaDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\ReadCinemaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:39:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\Dtos\\ReadFilmeDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dtos\\ReadFilmeDto.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Data\\Dtos\\ReadFilmeDto.cs",
+              "RelativeToolTip": "Data\\Dtos\\ReadFilmeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:38:54.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250603193733_Sessao e Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250603193733_Sessao e Cinema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250603193733_Sessao e Cinema.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Migrations\\20250603193733_Sessao e Cinema.cs",
+              "RelativeToolTip": "Migrations\\20250603193733_Sessao e Cinema.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:37:33.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Models\\Cinema.cs",
+              "RelativeToolTip": "Models\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:45:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Models\\Sessao.cs",
+              "RelativeDocumentMoniker": "Models\\Sessao.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\FilmesApi\\Models\\Sessao.cs",
+              "RelativeToolTip": "Models\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:15:35.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
